@@ -1,6 +1,7 @@
 # AiDevTV
 AI DEV TV – Smart Launcher for Mobile and TV's
 
+An all-in-one Smart TV and mobile entertainment ecosystem featuring a customizable  launcher, built-in file manager, web browser, media player, content publishing platform and remote content management. Discover free movies and OTT content, publish user and developer content, rotate displays and transform Smart TVs into remotely managed digital signage and billboard displays.
 
 
 Key features to highlight in README:
